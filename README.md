@@ -1,6 +1,4 @@
 # GPU-Accelerated-Batch-Image-Processing-using-CUDA-and-OpenCV
-PCA
-# GPU-Accelerated-Batch-Image-Processing-using-CUDA-and-OpenCV
 
 ### GPU-Rock-Paper-Scissors-CUDA
 
